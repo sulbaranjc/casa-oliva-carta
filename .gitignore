@@ -1,0 +1,7 @@
+# Archivos generados para la demostración, fuera del sitio web.
+/docs/
+
+# Archivos locales de edición.
+.DS_Store
+*.swp
+*~
